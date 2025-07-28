@@ -16,6 +16,8 @@
 - 🧠 Exploring C++ 
 - 💪 Focused on Growth | Hustling Every Day  
 
+---
+
 ### 🧠 Languages & Tech I Know
 
 <div align="center">
