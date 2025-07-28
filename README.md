@@ -92,3 +92,7 @@
 > *“I code because I love solving real problems and collaborating with others. I'm driven by curiosity, continuous learning, and the joy of building things that matter. I believe technology is the tool of the future — and by learning to code, I’m preparing myself to contribute meaningfully in that future, building tools, platforms, and products that can help people at scale.”*
 
 ---
+
+<p align="center">
+  ✨ Crafted with passion by <strong>ADITYA</strong> | Building & Learning Every Day 💡
+</p>
