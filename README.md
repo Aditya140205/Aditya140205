@@ -46,18 +46,18 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aditya-singh-0164b9252/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya-blue?style=for-the-badge&logo=linkedin" />
+<p align="left">
+  <a href="https://linkedin.com/in/aditya-singh-0164b9252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://leetcode.com/u/Aadi1402/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Aadi1402-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/aditya1402.singh" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-aditya1402.singh-blue?style=for-the-badge&logo=codeforces" />
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://github.com/Aditya140205" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Aditya140205-black?style=for-the-badge&logo=github" />
+  <a href="https://x.com/Aadi_1402_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -92,8 +92,3 @@
 > *“I code because I love solving real problems and collaborating with others. I'm driven by curiosity, continuous learning, and the joy of building things that matter. I believe technology is the tool of the future — and by learning to code, I’m preparing myself to contribute meaningfully in that future, building tools, platforms, and products that can help people at scale.”*
 
 ---
-
-
-<p align="center">
-  ✨ Crafted with passion by <strong>ADITYA</strong> | Building & Learning Every Day 💡
-</p>
