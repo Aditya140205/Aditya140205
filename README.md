@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Yo!+I'm+ADITYA+%F0%9F%92%BB;Web+Dev+%7C+C%2B%2B+%7C+GATE+CSE+2026+%7C+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hii%2C+I'm+Aditya+Singh!" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="250" height="180" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="90%" height="300px" />
 </p>
 
 ---
@@ -87,7 +87,7 @@
 
 ### 💬 Why I Code
 
-> *“I code because I genuinely enjoy building things, solving problems, and seeing my ideas come to life on screen. It’s more exciting than any textbook — it feels like creation.”*
+> *“I code because I love solving real problems and collaborating with others. I'm driven by curiosity, continuous learning, and the joy of building things that matter. I believe technology is the tool of the future — and by learning to code, I’m preparing myself to contribute meaningfully in that future, building tools, platforms, and products that can help people at scale.”*
 
 ---
 
